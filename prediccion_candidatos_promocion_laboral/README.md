@@ -1,5 +1,9 @@
 #  Employee Promotion Prediction
 
+## <b> Puedes revisar el codigo en GoogleColab </b>
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ADRIANVM117/TEC_MTY_PORTAFOLIO/blob/main/prediccion_candidatos_promocion_laboral/DS_C8_SC1_RETO_ADRIANVAZQUEZ.ipynb)
+
+
 Este proyecto aborda la problemática de identificar qué empleados tienen mayor probabilidad de ser promovidos dentro de una organización. Utiliza datos demográficos, historial laboral y desempeño previo para entrenar modelos de clasificación que permitan asistir al área de Recursos Humanos en sus procesos de toma de decisiones.
 
 ---
